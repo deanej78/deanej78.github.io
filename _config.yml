@@ -4,7 +4,7 @@ exclude:
   - README.md
 
 name: Deane Site
-host: deanej78.github.io
+host: localhost
 desc: Deane space for tech & non-tech relate
 
 custom:
